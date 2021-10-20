@@ -1,0 +1,21 @@
+{
+  "name":"好日子还在后头",
+  "url" : "https://www.baidu.com/",
+  "page": 1,
+  "inNonProfit": true,
+  "address": {
+    "street": "宣武门",
+    "city": "不知道",
+    "coumtry": "中国"
+  },
+  "links": [
+    {
+      "name": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "知乎",
+      "url": "https://www.zhihu.com/"
+    }
+  ]
+}
